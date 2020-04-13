@@ -1,5 +1,5 @@
-Package: com.swiftyper.calleetest
-Name: calleetest
+Package: com.swiftyper.wechatredenvelop
+Name: WeChatRedEnvelop
 Depends: mobilesubstrate
 Version: 1.2.1
 Architecture: iphoneos-arm
